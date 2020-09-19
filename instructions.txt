@@ -10,4 +10,4 @@ Sed sodales, nisi vel varius tempus, ante dui tincidunt orci, ut pharetra ipsum 
 Maecenas non molestie ex. Donec ac sagittis justo, ut aliquet erat. Praesent dictum metus odio, at rutrum sem semper nec. 
 Nam pellentesque orci sed lorem ultrices, sed volutpat mi fringilla. Quisque magna ipsum, molestie pretium elementum molestie, consectetur in velit.
 
-Please refer to the website for more instructions
+Please refer to the website for more instructions.
