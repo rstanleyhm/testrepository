@@ -1,0 +1,13 @@
+Installation guide
+------------------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus accumsan erat, id ornare dui varius facilisis. 
+Sed molestie nunc ac arcu mollis tempor. Mauris tincidunt eros a tempus dictum. Aliquam pulvinar interdum commodo. 
+Ut elementum faucibus leo. In in sapien nunc. Proin vitae lectus eu purus ullamcorper tincidunt at id lectus. 
+Praesent venenatis, eros ultricies posuere varius, arcu erat congue urna, sollicitudin molestie massa lorem et eros. 
+Donec ut posuere massa, nec feugiat augue. Integer gravida sollicitudin dapibus. Donec vitae vehicula tortor, sed vulputate leo. 
+Phasellus non risus tellus. Curabitur ut egestas nibh, a consectetur dolor.
+
+Morbi ut nulla at metus molestie vulputate nec quis ante. Integer at lobortis massa. Proin sed odio ut lacus dapibus maximus eget non metus. 
+Morbi accumsan quam sit amet dolor porttitor consequat. Praesent non orci libero. Aenean eget sapien tellus. 
+Nunc ac molestie justo, et sagittis lacus. Pellentesque posuere enim vitae lectus facilisis ultrices.
